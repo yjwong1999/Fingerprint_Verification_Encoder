@@ -1,5 +1,5 @@
 # Fingerprint_Verification_Encoder
-This is part of a team project for the Integrated Design Project courseware.
+This is part of a team project for the Integrated Design Project courseware. <br>
 Our project title is: Biometric-Secured Electronic Health Record (EHR) System
 
 My tasks include:
